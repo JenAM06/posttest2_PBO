@@ -89,7 +89,30 @@ Menu filter akan ditampilkan setelah menginputkan angka 2. Disini pengguna bisa 
 
   <img width="771" height="525" alt="image" src="https://github.com/user-attachments/assets/3de123df-21e8-46d7-b55c-f2f7cdfa0f0f" />
 
-## 
+## Fitur Rekomendasi
+
+Input angka 3 untuk melihat rekomendasi berdasarkan rating tertinggi
+
+<img width="740" height="290" alt="image" src="https://github.com/user-attachments/assets/aa5425d3-fe90-483c-83be-c18ac8d6e01f" />
+
+## Kembali ke menu utama
+Ketika ingin kembali ke menu utama, pengguna bisa input angka 4 untuk kembali.
+
+# Validasi Input
+
+1. Pengulangan
+   jika pengguna tidak menginputkan angka yang sesuai, bukan angka, ataupun input kosong, maka program akan menanykan kembali pilihan input kepada pengguna.
+   
+   <img width="525" height="459" alt="image" src="https://github.com/user-attachments/assets/0fc97fbb-b983-4335-bfa7-6a0282a76d32" />
+   <img width="381" height="463" alt="image" src="https://github.com/user-attachments/assets/dc2e1cb9-b082-4861-9ba3-3dd1ccd315b2" />
+   <img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/fd943bbc-fa22-4bf2-9237-7570d82a8812" />
+
+2. menanyaka kembali keputusan pengguna
+   
+   <img width="401" height="191" alt="image" src="https://github.com/user-attachments/assets/b0c14dba-d315-43ab-8583-ab725c001279" />
+
+
+
 
 
 # Penerapan MVC
