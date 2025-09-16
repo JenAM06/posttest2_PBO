@@ -54,7 +54,7 @@ Pengguna bisa menginputkan kata kunci yang sesuai atau sudah tercatat pada progr
 
 3. Kata kunci lain
 
-  <img width="748" height="422" alt="image" src="https://github.com/user-attachments/assets/e118f98d-9ce2-46fe-a878-2df58fa7da45" />
+    <img width="748" height="422" alt="image" src="https://github.com/user-attachments/assets/e118f98d-9ce2-46fe-a878-2df58fa7da45" />
 
 ## Fitur filter
 
@@ -107,7 +107,7 @@ Ketika ingin kembali ke menu utama, pengguna bisa input angka 4 untuk kembali.
    <img width="381" height="463" alt="image" src="https://github.com/user-attachments/assets/dc2e1cb9-b082-4861-9ba3-3dd1ccd315b2" />
    <img width="512" height="389" alt="image" src="https://github.com/user-attachments/assets/fd943bbc-fa22-4bf2-9237-7570d82a8812" />
 
-2. menanyaka kembali keputusan pengguna
+2. menanyakan kembali keputusan pengguna
    
    <img width="401" height="191" alt="image" src="https://github.com/user-attachments/assets/b0c14dba-d315-43ab-8583-ab725c001279" />
 
